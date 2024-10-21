@@ -145,6 +145,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## **Contact**
 
 Feel free to reach out if you have any questions or suggestions:  
-📧 **imvikramathithan@gmail.com**
+📧 **saranofficial76@gmail.com**
 
 ---
